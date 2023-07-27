@@ -112,7 +112,7 @@ body {
   margin-right: 150px;
   width: 35%;
   height: 660px;
-  background-image: url(Gym_man-removebg.png);
+  background-image: url('Gym_man-removebg.png');
   background-size: cover;
   background-position: center;
 }
@@ -156,19 +156,19 @@ body {
 
 .program .container .item1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(image1.jpg);
+    url('image1.jpg');
   background-size: cover;
   background-position: center;
 }
 .program .container .item2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(image2.jpg);
+    url('image2.jpg');
   background-size: cover;
   background-position: center;
 }
 .program .container .item3 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(image3.jpg);
+    url('image3.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -334,7 +334,7 @@ button {
   margin-left: 100px;
   width: 40%;
   height: 660px;
-  background-image: url(Myproject.png);
+  background-image: url('Myproject.png');
   background-size: cover;
 }
 
